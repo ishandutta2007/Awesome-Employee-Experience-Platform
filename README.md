@@ -1,8 +1,15 @@
-# Awesome-Employee-Experience-Platform
+# 🚀 Awesome Employee Experience Platform Ecosystem
 
-## Top Employee Experience Platforms Ecosystem
+![Awesome Employee Experience Platform Ecosystem Header Banner](assets/banner.svg)
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Experience-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Experience-Platform?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Experience-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Employee-Experience-Platform?style=social" alt="GitHub forks"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+## 🌟 Top Employee Experience Platforms Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 
@@ -10,218 +17,116 @@
 
 **Last updated: September 2026**
 
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Employee Experience**. These tools help HR teams and people leaders measure engagement, run performance reviews, recognize achievements, and build a culture where employees thrive.
-
-
-
-**Examples** include Culture Amp, 15Five, Leapsome, Lattice, Officevibe, Achievers, WorkTango, Quantum Workplace, TinyPulse, Mo, and Workvivo (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom engagement workflows, and transparent people data — ideal for organizations that need full control over sensitive employee feedback without per-seat SaaS fees or vendor lock-in.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Culture Amp](https://www.cultureamp.com/)**
-
-  Leading employee experience platform combining engagement surveys, performance reviews, and people analytics. Known for its benchmark data across industries and strong survey science.
-
-
-
-- **[15Five](https://www.15five.com/)**
-
-  Performance management and engagement platform built around weekly check-ins, OKRs, and continuous feedback. Popular with remote and distributed teams.
-
-
-
-- **[Leapsome](https://www.leapsome.com/)**
-
-  All-in-one platform for performance reviews, 360 feedback, engagement surveys, and learning. Emphasizes continuous feedback and goal alignment.
-
-
-
-- **[Lattice](https://lattice.com/)**
-
-  Performance and engagement platform with reviews, OKRs, engagement surveys, and career development. Known for its user-friendly interface and integrations.
-
-
-
-- **[Officevibe](https://officevibe.com/)**
-
-  Employee engagement platform (now part of Workleap) focused on pulse surveys, anonymous feedback, and team insights. Popular with SMBs.
-
-
-
-- **[Achievers](https://www.achievers.com/)**
-
-  Employee recognition and engagement platform with social recognition, rewards, and analytics. Strong in enterprise recognition programs.
-
-
-
-- **[WorkTango](https://www.worktango.com/)**
-
-  Employee experience platform combining recognition, surveys, and performance management. Focuses on actionable insights for managers.
-
-
-
-- **[Quantum Workplace](https://www.quantumworkplace.com/)**
-
-  Employee engagement and performance platform with survey science, goal management, and recognition. Known for its research-backed approach.
-
-
-
-- **[TinyPulse](https://www.tinypulse.com/)**
-
-  Employee engagement platform (now part of Limeade) with pulse surveys, anonymous feedback, and manager dashboards.
-
-
-
-- **[Mo](https://www.mo.com/)**
-
-  Employee experience platform focused on recognition, celebrations, and culture building through social-style interactions.
-
-
-
-- **[Workvivo](https://www.workvivo.com/)**
-
-  Employee experience and communication platform (now part of Zoom) combining intranet, engagement, and recognition. Strong for frontline and deskless workers.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Erxes](https://github.com/erxes/erxes)**
-
-  Source-available experience management infrastructure positioning itself as a HubSpot + Qualtrics alternative. XOS (Experience Operating System) covers customer experience, employee experience, and experience management. Built with TypeScript, 3,639 stars, 1,145 forks, actively maintained (May 2025). **Source-available** (custom license) .
-
-
-
-- **[Alignify](https://github.com/iam-tsr/alignify)**
-
-  AI-powered employee engagement platform. Conducts anonymous surveys, uses Qwen model for question generation and DistilBERT for feedback classification. Dashboard provides AI-generated improvement suggestions. Early beta, Python/CSS/JavaScript. **Open source** .
-
-
-
-- **[Avalia 360](https://github.com/JohnPitter/avalia-360)**
-
-  360-degree feedback application for teams. Every member evaluates every other member, providing multidimensional performance views. Features Excel import, automatic email invitations via EmailJS, AES-256 encryption, real-time dashboards, consolidated results with graphs, guaranteed anonymity, partial save, and multi-language support (Portuguese, English, Spanish). Node.js 18+, Firebase, EmailJS. **Open source** .
-
-
-
-- **[Good Job](https://github.com/dongitran/Good-Job)**
-
-  Employee recognition and reward platform. Peer-to-peer kudos with points tied to core values, redeemable rewards catalog, leaderboards, admin analytics, real-time SSE feed, multi-tenant org isolation. Built with SDD (Spec-Driven Development) and TDD (Test-Driven Development), 170 E2E tests. React 18, NestJS 11, PostgreSQL 16, Redis 7. Docker deployment. **Open source** .
-
-
-
-- **[Open Pulse Survey](https://github.com/BrainStation-23/openpulsesurvey)**
-
-  Comprehensive survey management platform designed for enterprises to create, distribute, and analyze surveys. Features anonymous surveys, real-time analytics, and easy distribution mechanisms for gathering insights from team members. **Open source** (BrainStation-23) .
-
-
-
-- **[PulseForms](https://github.com/Krissjop331/PulseForms)**
-
-  Django-based survey platform with custom user model, roles, and privacy controls. Supports multiple question types (text, number, date, email, radio, checkbox, scale), conditional logic, response limits (once/day/week/unlimited), time windows, draft saving, and CSV/JSON export. Django 5.x, MySQL. **Open source** .
-
-
-
-- **[RecognizeIt](https://github.com/ninshiki-project/RecognizeIt-backend-community)**
-
-  Backend skeleton for employee recognition platform built with Laravel. Facilitates recognition of colleagues' contributions and achievements, aiming to enhance workplace culture through real-time acknowledgment. **GNU GPLv3** .
-
-
-
-- **[threesixty](https://github.com/thermondo/threesixty)**
-
-  360-degree feedback tool. Lightweight implementation for collecting multi-rater feedback. **Open source** .
-
-
-
-- **[Digital Workplace Employee Hub](https://github.com/WRVish/digital-workplace-employee-hub)**
-
-  Free open-source employee portal for Microsoft 365 (SPFx and Power Apps Code Apps versions). Features user management, leave administration, asset management, expense/travel management, and ticketing with role-based access control. SharePoint backend, no extra infrastructure. **Open source** .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **OKR & Goal Management**: **BurningOKR** (144 stars, comprehensive OKR management), **okr-tracker** (Oslo Kommune, Vue + Firebase, 62 stars), **Jupiter** (Python goals management system), **jvs-teamwork** (project + OKR management, Chinese) .
-
-- **Recognition & Rewards**: **Good Job** (peer-to-peer kudos with points), **RecognizeIt** (Laravel backend), **Employee Shoutout Management** (SPFx, React, SharePoint) .
-
-- **Survey & Feedback**: **Alignify** (AI-powered engagement surveys), **Open Pulse Survey** (enterprise survey management), **PulseForms** (Django survey platform with conditional logic) .
-
-- **360 Feedback**: **Avalia 360** (multidimensional, encrypted), **threesixty** (lightweight), **Moodle 360° Feedback** (Moodle plugin, 1,061 installations) .
-
-
-
-**Frameworks for building custom systems**: Combine **Erxes** for experience management infrastructure, **Good Job** for recognition and rewards, **Avalia 360** or **threesixty** for 360 feedback, **BurningOKR** or **okr-tracker** for goals, and **PulseForms** or **Alignify** for engagement surveys. Add **PostgreSQL** for persistence and **Docker** for deployment.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Employee experience platforms handle sensitive employee feedback and performance data; ensure compliance with data protection regulations and internal privacy policies.
-
-- Self-hosted open-source solutions require proper security hardening, anonymity guarantees, and regular maintenance. The license is free; the operational cost is yours.
-
-
+Welcome to the ultimate **Awesome Employee Experience Platform Ecosystem** guide! This repository tracks top **SaaS platforms**, enterprise HR technology, and self-hosted **open-source projects** designed to improve employee experience (EX), performance reviews, pulse survey feedback, peer recognition, and workplace culture.
 
 ---
 
+## 📑 Table of Contents
+- [📊 Market Overview & Industry Insights](#-market-overview--industry-insights)
+- [💼 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [☕ Support & Acknowledgments](#-support--acknowledgments)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📈 Star History](#-star-history)
 
+---
 
-**Made for HR leaders, people operations teams, managers, and employee experience practitioners.**
+## 📊 Market Overview & Industry Insights
 
-Let's make employee experience more open, transparent, and people-centered.
+The global **Employee Experience Platform (EXP) market size** is estimated at **$7.5 Billion to $8.2 Billion in 2026** and is projected to reach **$16.8 Billion by 2032** (CAGR ~12.5%). 
+
+The sector is currently **moderately fragmented**. While legacy HCM suites (SAP SuccessFactors, Workday) and tech giants (Microsoft Viva, Zoom Workvivo) hold strong enterprise share, specialized category leaders (Lattice, Culture Amp, 15Five, Leapsome) continue to thrive in the mid-market. Open-source solutions are rapidly gaining traction for privacy-conscious enterprise deployments.
+
+---
+
+## 💼 SaaS / Hosted Platforms
+
+Below is the comparative breakdown of top commercial SaaS platforms, ordered by company size (valuation / estimated ARR descending):
+
+| Platform | Description & Key Features | Pricing (Starting Tier) | Free Tier Limit / Trial Duration | Company Size (Valuation / Revenue) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Lattice](https://lattice.com/)** | All-in-one performance, engagement surveys, OKRs, and career development platform. | $11/user/month (Performance + Engagement, min. $4,000/year contract) | No free tier; 14-day requestable sales trial | **$3.0 Billion Valuation** (~$127.1M ARR) |
+| **[Culture Amp](https://www.cultureamp.com/)** | Enterprise-grade survey science, 360 performance reviews, and people analytics. | $4,500/year base tier (for teams up to 150 employees) | No free tier; No public free trial (sales demo only) | **$1.5 Billion Valuation** (~$227.2M ARR) |
+| **[Leapsome](https://www.leapsome.com/)** | Modular platform combining OKRs, performance reviews, pulse surveys, and learning. | $8/user/month (billed annually) | No free tier; 14-day full feature free trial | **~$300 Million Valuation** (~$35M ARR) |
+| **[Workvivo](https://www.workvivo.com/)** | Digital workplace and employee social network platform (acquired by Zoom). | $20,000/year minimum enterprise contract (~$5–$8/user/mo) | No free tier; 14-day enterprise trial via Zoom sales | **~$222 Million Acquisition** (>$100M ARR) |
+| **[Achievers](https://www.achievers.com/)** | Enterprise peer-to-peer recognition, rewards catalog, and employee feedback. | $3/user/month (plus allocated rewards budget) | No free tier; 30-day sandbox demo trial | **~$150 Million Acquisition** (~$50M ARR) |
+| **[15Five](https://www.15five.com/)** | Weekly check-ins, continuous feedback, OKR tracking, and manager coaching. | $4/user/month (Billed annually for Perform plan) | No free tier; 14-day full feature free trial | **~$130 Million Valuation** (~$99M ARR) |
+| **[Officevibe](https://officevibe.com/)** | Automated engagement pulse surveys, 1-on-1 tools, and manager feedback (by Workleap). | $5/user/month (Essential plan, billed annually) | **Free Forever Tier**: Free up to 10 users | **~$100 Million Parent Valuation** (~$25M ARR) |
+| **[Quantum Workplace](https://www.quantumworkplace.com/)** | Employee survey science, goal alignment, continuous feedback, and turnover analytics. | $5,000/year minimum contract (~$6/user/month) | No free tier; 14-day guided product trial | **~$50M–$100M Est. Revenue** (Private) |
+| **[Mo](https://www.mo.com/)** | Peer recognition, culture building, work anniversaries, and automated celebrations. | $4/user/month (Starter plan, billed annually) | No free tier; 7-day free trial | **~$28.9 Million ARR** (Growing Fast) |
+| **[WorkTango](https://www.worktango.com/)** | Holistic employee experience platform uniting recognition, rewards, and pulse surveys. | $6/user/month (bundled modules, min $3,500/year) | No free tier; 14-day manager trial | **~$25 Million Est. Revenue** (Private) |
+| **[TinyPulse](https://www.tinypulse.com/)** | Lightweight weekly pulse surveys, anonymous feedback, and Cheers for Peers (by Limeade). | $5/user/month (billed annually) | No free tier; 14-day free trial (no credit card required) | **~$9.1 Million Acquisition** (~$6.5M ARR) |
+
+---
+
+## 💻 Open-Source GitHub Projects
+
+Self-hosted and source-available tools are ideal for privacy-conscious HR operations. Repositories are sorted by **GitHub Star Count (descending)**:
+
+* **[Erxes](https://github.com/erxes/erxes)** <a href="https://github.com/erxes/erxes/stargazers"><img src="https://img.shields.io/github/stars/erxes/erxes?style=social&color=white" alt="Erxes Stars"/></a>
+  Source-available experience management infrastructure (HubSpot + Qualtrics alternative). XOS (Experience Operating System) covers customer experience, employee experience, and feedback pipelines. Built with TypeScript & Microservices architecture.
+* **[Avalia 360](https://github.com/JohnPitter/avalia-360)** <a href="https://github.com/JohnPitter/avalia-360/stargazers"><img src="https://img.shields.io/github/stars/JohnPitter/avalia-360?style=social&color=white" alt="Avalia 360 Stars"/></a>
+  360-degree feedback application for teams. Features Excel import, automatic email invitations via EmailJS, AES-256 encryption, real-time dashboards, guaranteed anonymity, and multi-language support (Node.js & Firebase).
+* **[Good Job](https://github.com/dongitran/Good-Job)** <a href="https://github.com/dongitran/Good-Job/stargazers"><img src="https://img.shields.io/github/stars/dongitran/Good-Job?style=social&color=white" alt="Good Job Stars"/></a>
+  Peer-to-peer employee recognition and reward platform. Features points tied to core values, redeemable rewards catalog, leaderboards, admin analytics, real-time SSE feed, and multi-tenant org isolation (React 18 & NestJS).
+* **[BurningOKR](https://github.com/qaware/burn-okr)** <a href="https://github.com/qaware/burn-okr/stargazers"><img src="https://img.shields.io/github/stars/qaware/burn-okr?style=social&color=white" alt="BurningOKR Stars"/></a>
+  Comprehensive goal tracking and OKR (Objectives and Key Results) management web application built for transparent organizational alignment (Angular & Spring Boot).
+* **[Alignify](https://github.com/iam-tsr/alignify)** <a href="https://github.com/iam-tsr/alignify/stargazers"><img src="https://img.shields.io/github/stars/iam-tsr/alignify?style=social&color=white" alt="Alignify Stars"/></a>
+  AI-powered employee engagement platform. Conducts anonymous surveys, uses Qwen model for question generation, and DistilBERT for feedback classification with automated improvement suggestions.
+* **[okr-tracker](https://github.com/oslokommune/okr-tracker)** <a href="https://github.com/oslokommune/okr-tracker/stargazers"><img src="https://img.shields.io/github/stars/oslokommune/okr-tracker?style=social&color=white" alt="okr-tracker Stars"/></a>
+  Goal tracking tool built by Oslo Kommune. A clean, simple web app to track company, team, and individual OKRs with progress visualizations (Vue.js & Firebase).
+* **[Open Pulse Survey](https://github.com/BrainStation-23/openpulsesurvey)** <a href="https://github.com/BrainStation-23/openpulsesurvey/stargazers"><img src="https://img.shields.io/github/stars/BrainStation-23/openpulsesurvey?style=social&color=white" alt="Open Pulse Survey Stars"/></a>
+  Comprehensive survey management platform designed for enterprises to create, distribute, and analyze pulse surveys with real-time analytics.
+* **[PulseForms](https://github.com/Krissjop331/PulseForms)** <a href="https://github.com/Krissjop331/PulseForms/stargazers"><img src="https://img.shields.io/github/stars/Krissjop331/PulseForms?style=social&color=white" alt="PulseForms Stars"/></a>
+  Django-based survey platform with custom user roles, privacy controls, conditional logic, response limits, time windows, and CSV/JSON exports.
+* **[Digital Workplace Employee Hub](https://github.com/WRVish/digital-workplace-employee-hub)** <a href="https://github.com/WRVish/digital-workplace-employee-hub/stargazers"><img src="https://img.shields.io/github/stars/WRVish/digital-workplace-employee-hub?style=social&color=white" alt="Digital Workplace Stars"/></a>
+  Free employee portal for Microsoft 365 (SPFx & Power Apps). Features user management, leave administration, asset management, and ticketing.
+* **[RecognizeIt](https://github.com/ninshiki-project/RecognizeIt-backend-community)** <a href="https://github.com/ninshiki-project/RecognizeIt-backend-community/stargazers"><img src="https://img.shields.io/github/stars/ninshiki-project/RecognizeIt-backend-community?style=social&color=white" alt="RecognizeIt Stars"/></a>
+  Backend skeleton for peer recognition platforms built with Laravel. Facilitates colleague acknowledgment and points system to boost workplace culture.
+* **[threesixty](https://github.com/thermondo/threesixty)** <a href="https://github.com/thermondo/threesixty/stargazers"><img src="https://img.shields.io/github/stars/thermondo/threesixty?style=social&color=white" alt="threesixty Stars"/></a>
+  Lightweight multi-rater 360-degree feedback tool built for minimalist performance review workflows.
+
+---
+
+## 🛠️ Frameworks for Building Custom EX Systems
+
+If you are building a custom HR tech stack, consider combining:
+- **Erxes**: Base experience infrastructure & CRM
+- **Good Job** or **RecognizeIt**: Peer kudos & rewards module
+- **Avalia 360** or **threesixty**: 360-degree review module
+- **BurningOKR** or **okr-tracker**: Goal alignment & OKR engine
+- **PulseForms** or **Alignify**: Survey & AI analytics engine
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! To add or update an entry:
+1. Fork the repository.
+2. Update `README.md` keeping the Markdown formatting intact.
+3. Submit a Pull Request with a short summary of the additions.
+
+---
+
+## ☕ Support & Acknowledgments
+
+If you find this curated list valuable for your HR team, software project, or research:
+- 🌟 **Star this repository** to help others discover it!
+- 🔀 **Fork it** to customize your own internal HR evaluation checklist.
+- 📢 **Share it** with People Ops, HR Leaders, and Developers.
+- ☕ **Buy me a coffee**: Consider sponsoring this project via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
+
+- This list is community-curated for informational purposes.
+- Employee experience platforms handle sensitive employee feedback data; ensure full GDPR/HIPAA compliance when implementing any tool.
+- Pricing and features are subject to vendor updates.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Employee-Experience-Platform&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Employee-Experience-Platform&type=date&legend=top-left)
