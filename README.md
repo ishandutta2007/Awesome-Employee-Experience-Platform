@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Employee-Experience-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Experience-Platform?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Employee-Experience-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Employee-Experience-Platform?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Employee-Experience-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Employee-Experience-Platform?style=social" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -62,7 +62,7 @@ Below is the comparative breakdown of top commercial SaaS platforms, ordered by 
 
 ## 💻 Open-Source GitHub Projects
 
-Self-hosted and source-available tools are ideal for privacy-conscious HR operations. Repositories are sorted by **GitHub Star Count (descending)**:
+Self-hosted and source-available tools are ideal for privacy-conscious HR operations. Repositories are sorted by **GitHub Stars_Count (descending)**:
 
 * **[Erxes](https://github.com/erxes/erxes)** <a href="https://github.com/erxes/erxes/stargazers"><img src="https://img.shields.io/github/stars/erxes/erxes?style=social&color=white" alt="Erxes Stars"/></a>
   Source-available experience management infrastructure (HubSpot + Qualtrics alternative). XOS (Experience Operating System) covers customer experience, employee experience, and feedback pipelines. Built with TypeScript & Microservices architecture.
